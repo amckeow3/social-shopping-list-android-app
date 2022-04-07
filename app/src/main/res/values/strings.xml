@@ -1,3 +1,16 @@
 <resources>
     <string name="app_name">Group8_HW07</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="email_txt">Email</string>
+    <string name="pass_txt">Password</string>
+    <string name="name_txt">Name</string>
+    <string name="create_new_acct">Create New Account</string>
+    <string name="login">Login</string>
+    <string name="submit">Submit</string>
+    <string name="cancel">Cancel</string>
+    <string name="logout">Logout</string>
+    <string name="new_list">New Shopping List</string>
+    <string name="your_lists">Your Lists</string>
+    <string name="shared_lists">Shared Lists</string>
 </resources>
